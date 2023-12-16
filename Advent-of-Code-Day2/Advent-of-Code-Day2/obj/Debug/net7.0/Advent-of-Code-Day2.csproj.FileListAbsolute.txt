@@ -1,0 +1,14 @@
+C:\Users\blues\Coding Projects\Advent of Code 2023\Day2\Advent-of-Code-Day2\Advent-of-Code-Day2\obj\Debug\net7.0\Advent-of-Code-Day2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blues\Coding Projects\Advent of Code 2023\Day2\Advent-of-Code-Day2\Advent-of-Code-Day2\obj\Debug\net7.0\Advent-of-Code-Day2.AssemblyInfoInputs.cache
+C:\Users\blues\Coding Projects\Advent of Code 2023\Day2\Advent-of-Code-Day2\Advent-of-Code-Day2\obj\Debug\net7.0\Advent-of-Code-Day2.AssemblyInfo.cs
+C:\Users\blues\Coding Projects\Advent of Code 2023\Day2\Advent-of-Code-Day2\Advent-of-Code-Day2\obj\Debug\net7.0\Advent-of-Code-Day2.csproj.CoreCompileInputs.cache
+C:\Users\blues\Coding Projects\Advent of Code 2023\Day2\Advent-of-Code-Day2\Advent-of-Code-Day2\bin\Debug\net7.0\Advent-of-Code-Day2.exe
+C:\Users\blues\Coding Projects\Advent of Code 2023\Day2\Advent-of-Code-Day2\Advent-of-Code-Day2\bin\Debug\net7.0\Advent-of-Code-Day2.deps.json
+C:\Users\blues\Coding Projects\Advent of Code 2023\Day2\Advent-of-Code-Day2\Advent-of-Code-Day2\bin\Debug\net7.0\Advent-of-Code-Day2.runtimeconfig.json
+C:\Users\blues\Coding Projects\Advent of Code 2023\Day2\Advent-of-Code-Day2\Advent-of-Code-Day2\bin\Debug\net7.0\Advent-of-Code-Day2.dll
+C:\Users\blues\Coding Projects\Advent of Code 2023\Day2\Advent-of-Code-Day2\Advent-of-Code-Day2\bin\Debug\net7.0\Advent-of-Code-Day2.pdb
+C:\Users\blues\Coding Projects\Advent of Code 2023\Day2\Advent-of-Code-Day2\Advent-of-Code-Day2\obj\Debug\net7.0\Advent-of-Code-Day2.dll
+C:\Users\blues\Coding Projects\Advent of Code 2023\Day2\Advent-of-Code-Day2\Advent-of-Code-Day2\obj\Debug\net7.0\refint\Advent-of-Code-Day2.dll
+C:\Users\blues\Coding Projects\Advent of Code 2023\Day2\Advent-of-Code-Day2\Advent-of-Code-Day2\obj\Debug\net7.0\Advent-of-Code-Day2.pdb
+C:\Users\blues\Coding Projects\Advent of Code 2023\Day2\Advent-of-Code-Day2\Advent-of-Code-Day2\obj\Debug\net7.0\Advent-of-Code-Day2.genruntimeconfig.cache
+C:\Users\blues\Coding Projects\Advent of Code 2023\Day2\Advent-of-Code-Day2\Advent-of-Code-Day2\obj\Debug\net7.0\ref\Advent-of-Code-Day2.dll
